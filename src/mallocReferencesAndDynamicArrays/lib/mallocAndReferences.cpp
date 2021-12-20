@@ -1,5 +1,5 @@
 #include<iostream>
-#include"mallocAndReferences.h"
+#include"mallocAndReferences.hpp"
 using namespace std;
 #define BUFFER_SIZE 256
 

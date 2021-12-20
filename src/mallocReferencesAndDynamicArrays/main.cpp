@@ -1,5 +1,5 @@
 #include<iostream>
-#include"lib/mallocAndReferences.h"
+#include"lib/mallocAndReferences.hpp"
 using namespace std;
 
 int main(){
