@@ -1,5 +1,5 @@
-#ifndef FIRSTCLASSHEADER_H_
-#define FIRSTCLASSHEADER_H_
+#ifndef FIRSTCLASSHEADER_HPP_
+#define FIRSTCLASSHEADER_HPP_
 
 float readNumber();
 char readOperationType();
