@@ -1,5 +1,5 @@
 #include<iostream>
-#include"firstClassHeader.h"
+#include"firstClassHeader.hpp"
 using namespace std;
 
 float readNumber(){

@@ -1,5 +1,5 @@
 #include<iostream>
-#include"lib/firstClassHeader.h"
+#include"lib/firstClassHeader.hpp"
 using namespace std;
 
 int main(){
