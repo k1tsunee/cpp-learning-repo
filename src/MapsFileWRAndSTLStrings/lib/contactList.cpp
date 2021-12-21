@@ -9,8 +9,7 @@ using namespace std;
 void consoleClearScreen(){
     #ifdef _WIN32
         system("cls");
-    #endif
-    #ifdef LINUX
+    #else
         system("clear");
     #endif
 }
